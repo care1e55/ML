@@ -1,39 +1,40 @@
 # ML
-Jupyter ноутбуки с выполнеными заданиями по классическому машинному обучению с курсов НИУ ВШЭ ФКН. Используются как реализации алгоритмов из sklearn так и собственные.
+Jupyter-notebooks with classic machine learning homeworks solutions from HSE FCS courses.
+Some algorithms been written from scratch and some just sklearn fit/predict.
 
-## [homework]DBO_ML_HW1.ipynb 
+## pandas_analysis.ipynb 
 House pricing and data analysis, exploration and feature engineering
 
-## [homework]HW2_Pipline+GridSearch.ipynb
+## Pipline+GridSearch.ipynb
 Titanic data prediction with pipline and gridsearch
 
-## [homework]HW2_Titanic_Analysis.ipynb
+## Titanic_Analysis.ipynb
 Titanic baseline solution
 
-## [homework]HW3_perceptron.ipynb
+## perceptron.ipynb
 Rosenblatt perceptron implementation
 
-## [homework]HW4_knn.ipynb
+## knn.ipynb
 KNN implementation
 
-## [homework]HW_K_Means.ipynb
+## K_Means.ipynb
 K-Means implementation
 
-## [homework]HW_walmart_prediction.ipynb
+## walmart_prediction.ipynb
 Walmart data feature engineering and prediction
 
-## [homework]HW_PCA.ipynb
+## PCA.ipynb
 PCA implimantation
 
-## [homework]HW_xgbstump.ipynb
+## xgbstump.ipynb
 Depth 3 XGB implementation
 
-## [homework]HW_DecisionStump.ipynb
+## DecisionStump.ipynb
 Depth 1 decision tree implementation
 
-## [homework]HW_RandomStumpForest.ipynb
+## RandomStumpForest.ipynb
 Depth 1 random forest implementation
 
-## [homework]pandas_train_adult.ipynb
+## pandas_train_adult.ipynb
 Pandas practice
 
